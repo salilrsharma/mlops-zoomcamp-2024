@@ -1,3 +1,4 @@
 mlflow
 pandas
 pyarrow
+scikit-learn
