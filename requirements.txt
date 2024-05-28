@@ -2,3 +2,5 @@ mlflow
 pandas
 pyarrow
 scikit-learn
+click
+setuptools
